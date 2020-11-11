@@ -1,0 +1,4 @@
+Make a leveled Madlebrot set.
+Each level are the points that haven't exceeded the boundary yet.
+Use a triangular lattice. Each point will be the center of a hexagon that will overlap with its neighbors by epsilon.
+Each layer will be a time step.
